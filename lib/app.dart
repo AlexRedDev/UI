@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_application/screen/home_screen/home_screen.dart';
+import 'package:ui_application/screens/home_screen/home_screen.dart';
 import 'package:ui_application/setup.dart';
 
 class App extends StatelessWidget {
